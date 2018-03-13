@@ -30,10 +30,11 @@ We expect each student to complete _as many of these as possible_. If that means
 2. Write a JavaScript program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 3. Write a JavaScript program to construct the following pattern.
+```
 x
 xx
 xxx
 xxxx
 xxxxx
-
+```
 4. Create a loop that "sings" the song 99 bottles of beer on the wall. The song repeats in this fashion until there are 0 bottles on the wall: "99 bottles of beer on the wall, 99 bottles of beer. Take one down, pass it around, 98 bottles of beer on the wall." "98 bottles of beer on the wall, 98 bottles of beer. Take one down, pass it around, 97 bottles of beer on the wall."
