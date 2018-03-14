@@ -21,6 +21,7 @@ for (let i = 1; i <= 100; i++) {
  		console.log(i)
   }
 }
+<<<<<<< HEAD
 
 //LOOP 3
 let xShape = 'x';
@@ -29,3 +30,5 @@ for (let i = 0; i <= 4; i++) {
   console.log(xShape);
 xShape += 'x';
 }
+=======
+>>>>>>> d036ef9af667b4761afa967de3851d19974b597e
