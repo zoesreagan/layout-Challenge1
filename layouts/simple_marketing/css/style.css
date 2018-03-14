@@ -1,0 +1,35 @@
+body {
+  background-color: #F492FF;
+  position: absolute;
+  align-items: center;
+}
+
+header,footer {
+    background-color: rgb(192, 192, 192);
+    height: 125px;
+    width: 825px;
+    margin: 10px;
+    border: .5px solid black;
+  }
+
+.left_column, .right_column {
+  background-color: rgb(192, 192, 192);
+  border: .5px solid black;
+  height: 340px;
+  width: 400px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 10px;
+
+}
+
+.left_section, .middle_section, .right_section {
+  background-color: rgb(192, 192, 192);
+  border: .5px solid black;
+  height: 150px;
+  width: 260px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin: 10px;
+
+}
