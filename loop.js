@@ -21,7 +21,6 @@ for (let i = 1; i <= 100; i++) {
  		console.log(i)
   }
 }
-<<<<<<< HEAD
 
 //LOOP 3
 let xShape = 'x';
@@ -30,5 +29,8 @@ for (let i = 0; i <= 4; i++) {
   console.log(xShape);
 xShape += 'x';
 }
-=======
->>>>>>> d036ef9af667b4761afa967de3851d19974b597e
+
+//LOOP 4
+for (let i = 99; i >= 1; i--) {
+console.log([i] + " bottles of beer on the wall, " + [i] + " bottles of beer. Take one down, pass it around. " + [i - 1] + " bottles of beer on the wall.")
+}
